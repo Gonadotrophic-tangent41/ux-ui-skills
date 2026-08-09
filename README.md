@@ -1,30 +1,32 @@
-# UX/UI Design Skills
+# UX/UI Skills Pack for Claude, Codex and ChatGPT
 
-This repository contains six Codex/ChatGPT skill packages for practical UX, UI, product design, design systems, AI product design, case-study writing, and developer handoff work.
+A free skill pack for UX/UI audits, dashboard redesigns, design system reviews, AI product design, portfolio case studies, and developer handoff.
 
-## Skills
+These skills are built for product designers, UX/UI designers, AI product designers, design system teams, founders, and builders who want structured AI assistance for real product design work.
 
-- `ux-ui-audit`: Reviews screens for hierarchy, usability, accessibility, layout, information architecture, responsive behavior, trust, states, and prioritised improvements.
-- `dashboard-redesign`: Improves dashboards, KPI cards, charts, filters, density, drilldowns, comparison, data trust, responsiveness, and accessibility.
-- `design-system-review`: Reviews components, tokens, spacing, typography, color, variants, states, documentation, design-code parity, and governance.
-- `ai-product-design`: Designs AI features, chatbots, agents, copilots, trust flows, feedback loops, approvals, recovery, memory, permissions, and evaluation.
-- `case-study-writer`: Converts product design work into concise, credible UX/UI portfolio case studies without inventing metrics or ownership.
-- `handoff-to-dev`: Produces build-ready specs, annotations, acceptance criteria, responsive behavior, accessibility requirements, state matrices, and QA criteria.
+## Included Skills
 
-Each folder includes its own `SKILL.md`, metadata, icon, and supporting reference material.
+| Skill | Use it for |
+| --- | --- |
+| `ux-ui-audit` | Review screens for hierarchy, usability, accessibility, layout, information architecture, responsive behavior, trust, and state completeness. |
+| `dashboard-redesign` | Improve dashboards, KPI cards, charts, filters, density, drilldowns, comparisons, data trust, responsiveness, and accessibility. |
+| `design-system-review` | Review components, tokens, spacing, typography, color, variants, states, documentation, design-code parity, and governance. |
+| `ai-product-design` | Design AI features, chatbots, agents, copilots, trust flows, feedback loops, approvals, recovery, memory, permissions, and evaluation. |
+| `case-study-writer` | Convert product design work into concise, credible UX/UI portfolio case studies without inventing metrics or ownership. |
+| `handoff-to-dev` | Produce build-ready specs, annotations, acceptance criteria, responsive behavior, accessibility requirements, state matrices, and QA criteria. |
 
-## Structure
+## What Is Inside
+
+Each skill folder includes:
+
+- `SKILL.md` with the main skill instructions
+- `agents/openai.yaml` metadata
+- `assets/icon.svg`
+- `references/` with supporting UX/UI guidance
+
+## How To Use
+
+Download the repo as a ZIP:
 
 ```text
-ux-ui-skills/
-  ai-product-design/
-  case-study-writer/
-  dashboard-redesign/
-  design-system-review/
-  handoff-to-dev/
-  ux-ui-audit/
-```
-
-## Notes
-
-These skills synthesize established UX/UI practice from sources such as WCAG, NN/g, Lean UX, Refactoring UI, Rocket Surgery Made Easy, About Face, Designing Interfaces, Laws of UX, Growth.Design, Smashing Magazine, UX Collective, and related product-design references.
+Code → Download ZIP
